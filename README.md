@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [![Tailor](https://cloud.githubusercontent.com/assets/1350704/9867389/18ae2e06-5b3b-11e5-9b37-72a3e9621b9c.png)](https://tailor.sh)
 
 <p align="center">
@@ -471,3 +472,7 @@ Tool                                                         | License
 # License
 
 Tailor is released under the MIT license. See [LICENSE.md](https://github.com/sleekbyte/tailor/blob/master/LICENSE.md) for details.
+=======
+# evosuite-tailor-ufam
+Projeto utilizando evosuite da equipe caçadores de bug
+>>>>>>> 011936f7b1bb916a976493e89b3ef15393ad54db
