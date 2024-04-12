@@ -1,0 +1,11 @@
+#!/usr/bin/env sh
+# Usage: script/cibuild
+# Emulates a continuous integration build.
+
+set -e
+
+# Assemble all the archives in the project
+./gradlew assemble
+
+# Perform all verification tasks in the project
+./gradlew check
